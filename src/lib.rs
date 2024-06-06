@@ -59,6 +59,7 @@ use iced_widget::style::Theme;
 /// as much as possible.
 pub mod iced;
 
+pub mod advanced;
 mod conversions;
 mod render;
 mod systems;
